@@ -1,2 +1,2 @@
 # customer_segmentation
-customer segmentation project
+customer segmentation model
